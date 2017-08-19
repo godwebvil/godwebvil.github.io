@@ -784,7 +784,7 @@
               }
             },
             ".copyright > p": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_cid": "qsCjqJJu4p",
