@@ -1,4 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i);
+@import url(https://fonts.googleapis.com/css?family=Rock+Salt:400);
 
 
 
@@ -48,7 +49,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Rock Salt', handwriting;
   font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
@@ -621,7 +622,7 @@ a:hover {
   background-color: #f5f5f5;
   box-shadow: none;
   color: #565656;
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Rock Salt', handwriting;
   font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
@@ -1845,7 +1846,7 @@ body {
 .cid-qv6kKDVgRB {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/black-2000x20001.jpg");
+  background-image: url("../../../assets/images/black-2000x20002.jpg");
 }
 .cid-qv6kKDVgRB .mbr-figure {
   margin: 0 auto;
