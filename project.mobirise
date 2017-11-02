@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "Lito Jr Garcia",
-    "currentPage": "www.tshirtdesigns.ml.tshirtdesigns.mlindex.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 43,
-    "versionPublish": "4.3.0",
+    "versionPublish": "4.4.0",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -541,25 +541,17 @@
           "_cid": "qtZTELgRtm",
           "_protectedParams": [
             "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
+            "gallery__filtersTextStyle": "display-4",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/trick-or-tequilla-2000x2400-800x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/trick-or-tequilla-2000x2400-800x960-800x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -567,30 +559,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/more-space-2000x2400.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/more-space-2000x2400-800x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/king-of-the-patch-2000x2400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/king-of-the-patch-2000x2400-800x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/boo-felicity-2000x2400-800x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/boo-felicity-2000x2400-800x960-800x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -613,20 +581,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/witch-please-2000x2400-800x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/witch-please-2000x2400-800x960-800x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/lets-get-smashed-2000x2000-800x800.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lets-get-smashed-2000x2000-800x800-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/meister-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/meister-2000x2400-800x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -661,44 +617,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/cat-likes-me-2000x2400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/cat-likes-me-2000x2400-800x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/like-cats-2000x2400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/like-cats-2000x2400-800x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/dont-trust-people-2000x2400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dont-trust-people-2000x2400-800x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/youve-cat-2000x2400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/youve-cat-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gartner-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gartner-2000x2400-800x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -721,24 +641,36 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/anchor-2000x2400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/anchor-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bookworm-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bookworm-2000x2400-800x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/feast-mode-3-2000x2400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/feast-mode-3-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/schwester-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/schwester-2000x2400-800x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/tea-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/tea-2000x2400-800x960.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           }
@@ -1348,12 +1280,16 @@
           "_anchor": "gallery1-i",
           "_protectedParams": [
             "text_all",
+            "gallery__filtersTextStyle",
+            "gallery__filtersBtnStyle",
             "gallery"
           ],
           "_global": false,
           "_once": false,
           "_params": {
             "text_all": "All",
+            "gallery__filtersTextStyle": "display-4",
+            "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
                 "tags": "Awesome",
@@ -1374,18 +1310,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/godwebzilla4-2000x1076.png",
                 "thumb": "@PROJECT_PATH@/assets/images/godwebzilla4-2000x1076-800x430.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/scizzorcolorflat.fw-1392x607.png",
-                "thumb": "@PROJECT_PATH@/assets/images/scizzorcolorflat.fw-1392x607-800x348.png",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -1416,22 +1340,10 @@
                 "active": false
               },
               {
-                "active": false,
+                "active": true,
                 "thumb": "@PROJECT_PATH@/assets/images/lion-mouth-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/lion-mouth-2000x2000.jpg",
                 "alt": ""
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/tbhoneycomb-1500x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tbhoneycomb-1500x1500-800x800.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
               },
               {
                 "tags": "Animated",
@@ -1440,18 +1352,6 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/lovenotes2-2000x2000-800x800.png",
                 "thumb": "@PROJECT_PATH@/assets/images/lovenotes2-2000x2000-800x800-800x800.png",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/slipknot-collage-1000x1000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/slipknot-collage-1000x1000-800x800.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
@@ -1522,18 +1422,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/lion-head-4heads-2000x2000.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lion-head-4heads-2000x2000-800x800.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/skeledab-2000x2400.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/skeledab-2000x2400-800x960.jpg",
                 "alt": "",
@@ -1551,7 +1439,7 @@
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           }
