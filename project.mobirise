@@ -1,10 +1,10 @@
 {
   "settings": {
     "name": "Lito Jr Garcia",
-    "currentPage": "page1.html",
+    "currentPage": "www.tshirtdesigns.ml.tshirtdesigns.mlindex.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 43,
-    "versionPublish": "4.4.0",
+    "versionPublish": "4.6.2",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1292,18 +1292,6 @@
             "gallery__filtersBtnStyle": "btn-primary-outline",
             "gallery": [
               {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/carpet-beauty-576x960.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/carpet-beauty-576x960-576x960.jpg",
-                "alt": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1314,6 +1302,12 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/kiss-my-ace-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kiss-my-ace-2000x2400.jpg",
+                "alt": ""
               },
               {
                 "tags": "Animated",
@@ -1328,6 +1322,12 @@
                 "active": false
               },
               {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/lion-mouth-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lion-mouth-2000x2000.jpg",
+                "alt": ""
+              },
+              {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
@@ -1338,12 +1338,6 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
-              },
-              {
-                "active": true,
-                "thumb": "@PROJECT_PATH@/assets/images/lion-mouth-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lion-mouth-2000x2000.jpg",
-                "alt": ""
               },
               {
                 "tags": "Animated",
@@ -1440,6 +1434,78 @@
                 "customStyle1": "display-7",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/baby4-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/baby4-2000x2400.jpg",
+                "alt": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/i-left-my-costume-mechanic-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/i-left-my-costume-mechanic-2000x2400.jpg",
+                "alt": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/one-nation-under-god3-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/one-nation-under-god3-2000x2400.jpg",
+                "alt": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/design3-ver1-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/design3-ver1-2000x2400.jpg",
+                "alt": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/more-skiing-less-worrying2-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/more-skiing-less-worrying2-2000x2400.jpg",
+                "alt": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/why-work-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/why-work-2000x2400.jpg",
+                "alt": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/worlds-greatest-poker-player-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/worlds-greatest-poker-player-2000x2400.jpg",
+                "alt": ""
+              },
+              {
+                "active": false,
+                "thumb": "@PROJECT_PATH@/assets/images/mr-lucky-2000x2400-800x960.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mr-lucky-2000x2400.jpg",
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/keep-calm-poker-2000x2400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/keep-calm-poker-2000x2400-800x960.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/season-2-coming-soon-2000x1200.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/season-2-coming-soon-2000x1200-800x480.jpg",
+                "alt": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": true
               }
             ]
           }
